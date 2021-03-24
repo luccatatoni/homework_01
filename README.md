@@ -58,11 +58,11 @@ Through the use of blockchain and modern APIs, Ripple enables financial institut
 ## Results
 * Ripple has demonstrated to be effective, creating a fast settlement system and also allowing parties to enter into Foregin-Exchanges transactions with fewer transaction costs.
 
-* Key Metrics ([source](https://ripple.com/xrp/market-performance/))
-- Market Capitalization: $46.05 Billion USD
-- XRP Volume: $33.65 Billion USD in the last 30 days
-- Settlement Speed: 3.90 seconds
-- Network Transaction Fee: $0.0001257 USD
+* Key Metrics as of March 24, 2021 ([source](https://ripple.com/xrp/market-performance/))
+    - Market Capitalization: $46.05 Billion USD
+    - XRP Volume: $33.65 Billion USD in the last 30 days
+    - Settlement Speed: 3.90 seconds
+    - Network Transaction Fee: $0.0001257 USD
 
  * Traditional bank system is the main competitors of Ripple. Even though the volumes are not the largest in the market, Ripple has a clear competitive advantage when it comes to is transaction fees, realiability and speed.
 
